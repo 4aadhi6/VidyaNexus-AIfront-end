@@ -117,7 +117,7 @@ function App() {
             className="block text-center text-sm font-medium text-blue-600 hover:underline"
           >
             <marquee behavior="scroll" direction="left" scrollamount="5">
-              🚀 Developed and maintained by <strong>_4addhi_6</strong>
+              🚀 Developed and maintained by <strong>_4aadhi_6</strong>
             </marquee>
           </a>
         </footer>
