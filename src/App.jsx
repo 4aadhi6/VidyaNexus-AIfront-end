@@ -111,7 +111,7 @@ function App() {
         {/* FOOTER SECTION */}
         <footer className="border-t py-2 bg-gray-50">
           <a
-            href="https://instagram.com/4addhi_6"
+            href="https://instagram.com/4aadhi_6"
             target="_blank"
             rel="noopener noreferrer"
             className="block text-center text-sm font-medium text-blue-600 hover:underline"
